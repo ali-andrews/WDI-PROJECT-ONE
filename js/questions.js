@@ -1,7 +1,7 @@
 
 window.questions = {
   "tech": [
-  {text: "Where was the first G.A. headquarters and when was it established?", answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], correctAnswer: 0 , questionId1: 0,},
+  {text: "Where was the first G.A. headquarters and when was it established?", answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], correctAnswer: 0},
   {text: "How many campus's does G.A. have?", answers:["10", "8", "14", "9"], correctAnswer: 2},
   {text: "What year was the google logo centered on its webpage?", answers:["2004", "2003", "2001", "1996"], correctAnswer: 2},
   {text: "How much money does eBay make per second?", answers:["$340", "$100", "$90", "$290"], correctAnswer: 3},
