@@ -1,7 +1,6 @@
 window.onload = function (){
   Game.start();
 }
-
 var Game = {
   questions: window.questions,
   currentQuestionIndex: 0,
@@ -32,7 +31,6 @@ Game.clickedTheme = function(){
   var chosenTheme = Game.questions[Game.currentTheme][Game.currentQuestionIndex];
 }
 
-
 Game.displayCurrentQuestion = function() {
  this.turn++ 
  if (this.turn % 2) { 
@@ -42,7 +40,6 @@ Game.displayCurrentQuestion = function() {
   this.whichTurn = 1;
   Game.turnText.innerText = "It is Player Ones turn";
 }
-
 var currentQuestion = Game.questions[Game.currentTheme][Game.currentQuestionIndex]
 document.getElementById("question").innerText = currentQuestion.text;
 }
@@ -55,6 +52,7 @@ Game.displayCurrentAnswers = function() {
     buttons[i].innerText = answers[i];
   }
 }
+
 Game.isAnswerCorrect = function(answer) {
   var currentQuestion = Game.questions[Game.currentTheme][Game.currentQuestionIndex];
   console.log(currentQuestion)
@@ -112,7 +110,6 @@ Game.checkWin = function() {
     Game.turnText.innerText = "Gameover, Player Two you are a millionaire! " + "Please push restart to try a new topic";
   }
 }
-
 
 Game.start = function () {
   var buttons = document.getElementsByClassName("answerButton");
