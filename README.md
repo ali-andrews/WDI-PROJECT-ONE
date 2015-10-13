@@ -7,11 +7,6 @@ This application is based on 'my own take' of the infamous television show "Who 
 
 ###Question format
 The question bank is organised in an array of "themes". You can have as many "themes" as you like. You select them at the opening page.
-<br>
-
-###Question bank
-To make question harvesting easier, I had a root directory of 'questions'. All my different themes and their questions are stored in a serperate file questions.js. The program reads the question set from questions.js
-
 
 My array of questions is organised in the following format
 
@@ -31,6 +26,10 @@ My array of questions is organised in the following format
 {text: "Where was the first G.A. headquarters and when was it established?", 
 answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], 
 correctAnswer: 0},
+<br>
+
+###Question bank
+To make question harvesting easier, I had a root directory of 'questions'. All my different themes and their questions are stored in a serperate file questions.js. The program reads the question set from questions.js
 <br>
 
 ###Visual of Game 
