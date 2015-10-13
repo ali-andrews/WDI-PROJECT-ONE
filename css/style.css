@@ -5,20 +5,17 @@
   font-family: Courier New;
   font-size: 15px;
 }
-
 body{
   margin: 0 auto;
   padding: 0;
   background: #000;
 }
-
 div.first-section {
   background: url(../images/millionaire_background.png) no-repeat center;
   background-size: auto 100%;
   width: 100%;
   height: 100vh;
 }
-
 .home-buttons button {
   opacity: 0.8;
   -webkit-border-radius: 10;
@@ -32,24 +29,17 @@ div.first-section {
   border: solid #000080 2px;
   text-decoration: none;
 }
-
 .home-buttons {
   padding-top: 500px;
   text-align: center;
 }
-
 .home-buttons button:hover {
  background-color: #000080;
  border: solid black 2px;
 }
-
 p.question { 
  margin-top: 240px;
-
-
 }
-
-
 div.second-section {
   display: none;
   position: center;
@@ -58,11 +48,9 @@ div.second-section {
   width: 100%;
   height: 100vh;
 }
-
 .second-section {
  text-align: center;
 }
-
 .second-section button {
   opacity: 0.9;
   -webkit-border-radius: 10;
@@ -78,7 +66,6 @@ div.second-section {
   width: 480px;
   height: 100px;
 }
-
 .second-section button:first-child {
   position: absolute;
   left: 120px;
@@ -94,20 +81,15 @@ div.second-section {
   background-color: #000080;
   border: solid black 2px;
 }
-
-
 div.options { 
   position: absolute;
   width: 100%;
   margin-bottom: 35px;
 }
-
 div.options div {
   width: 100%;
   height: 200px;
 }
-
-
 h3 {
  font-family: Courier New;
  text-align: left;
@@ -115,17 +97,12 @@ h3 {
  padding: 10px 10px 10px 10px;
  font-size: 20px;
  background: black;
-
 }
-
-
 p {
   opacity: 0.8;
   background: black;
   text-align: left;
-
 }
-
 p#question {
   position: absolute;
   top: 165px;
@@ -133,40 +110,30 @@ p#question {
   font-size: 16px;
   text-align: center;
 }
-
-
-
 div.last-section { 
   position: absolute;
   left: 80px;
   font-size: 20px;
   font-family: Courier New;
 }
-
 div.last-section h3 {
   text-align: center;
 }
-
 div.last-section p {
   padding: 10px;
 }
-
 .first-row {
   margin-top: 500px;
 }
-
 .second-row {
   bottom: 120px;
 }
-
 .options {
   margin-top: 150px;
 }
-
 h4.players.turn {
   padding: 10px;
 }
-
 a {
   padding: 10px;
   padding-left: 20px;

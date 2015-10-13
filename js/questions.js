@@ -22,8 +22,6 @@ window.questions = {
   {text: "Who was the highest paid female actress in 2014?", answers:["Angelina Jolie", "Jennifer Lawerence", "Julia Roberts", "Reese Witherspoon"], correctAnswer: 1},
   ],
 
-//Which person has won the most Oscars? Walt Disney
-
   "general": [ 
   {text: "Who invented the snowboard?", answers:["Doctor", "Skier", "Teacher", "Engineer"], correctAnswer: 3},
   {text: "Which is the deepest lake in the world?", answers:["Lake Superior", "Caspian Sea", "Lake Victoria", "Lake Baikal"], correctAnswer: 3},
@@ -34,17 +32,4 @@ window.questions = {
   {text: "What was Elvis Presley's first UK No1 single?", answers:["Heartbreak hotel", "All Shook Up", "Love me tender", "Cant help falling in love"], correctAnswer: 2},
   {text: "Which country has the worlds only non-rectangular flag?", answers:["Nepal", "Armenia", "Bulgaria", "Poland"], correctAnswer: 0},
   ],
-
-
-
-
-  // <h1>Who Wants to be a Millionaire</h1>
-  // <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  //   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  //   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  //   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  //   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  //   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  //   <h2>Themes</h2>
-
 }

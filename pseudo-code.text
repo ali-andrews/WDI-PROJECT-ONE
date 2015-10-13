@@ -1,0 +1,21 @@
+Pseudo code: Who wants to be a millionaire
+
+1. Create a background... with button 'start game'
+
+2. When users pushes start game.. the button fades and then leads to 'who wants to be a million screen'
+
+3. Player One automatically starts
+
+4. Then we have one question and four buttons (with different answer options)
+
+5. Ask the user to submit an answer..out of the four options only one will be correct  
+
+6. Calculate whether the answer is correct or not
+
+7. Regardless of whether the answer is wrong or right..it will go through to 'User 2's question'
+
+8. If either user gets a correct answer the score board will go up a point 
+
+9. It will then alternate between user one and user two until all the questions are finishes
+
+10. When the game finishes the scores will be tellied and one of the players will win or tie! 
