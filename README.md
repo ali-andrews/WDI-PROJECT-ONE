@@ -1,7 +1,7 @@
 # WDI-PROJECT-ONE 
 
 
-'Who Wants To Be A Millionaire': 
+###Who Wants To Be A Millionaire: 
 This application is based on 'my own take' of the infamous television show "Who wants to be a Millionaire". Starting with easy multiple-choice questions that gradually get more challenging as the game continues. There will be two users competing to win the grand prize of 'one million dollars'.
 
 Question format:
@@ -31,6 +31,7 @@ For example:
 answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], 
 correctAnswer: 0},
 
+![image](http://i.imgur.com/a2Qrhqo.jpg)
 
 Who Wants to Be a Millionaire Materials:
 
