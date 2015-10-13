@@ -14,7 +14,7 @@ My array of questions is organised in the following format
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
-  ], <br>
+   ], <br>
 } <br>
 
 "Answers" is the content for possible answers. "Answers" must have a least 4 multiple choices. 
@@ -22,10 +22,10 @@ My array of questions is organised in the following format
 "correctAnswer" refers to which answer is the correct one amongst the array. 
 
 ####For example: 
-
-{text: "Where was the first G.A. headquarters and when was it established?", 
-answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], 
-correctAnswer: 0},
+<br>
+{text: "Where was the first G.A. headquarters and when was it established?", <br>
+answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], <br>
+correctAnswer: 0}, <br>
 <br>
 
 ###Question bank
