@@ -22,7 +22,6 @@ My array of questions is organised in the following format
 "correctAnswer" refers to which answer is the correct one amongst the array. 
 
 ####For example: 
-<br>
 {text: "Where was the first G.A. headquarters and when was it established?", <br>
 answers:["New York, 2011", "New York, 2013", "New York, 2009", "San Francisco, 2011"], <br>
 correctAnswer: 0}, <br>
