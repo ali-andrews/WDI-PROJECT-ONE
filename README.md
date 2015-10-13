@@ -39,3 +39,10 @@ To make question harvesting easier, I had a root directory of 'questions'. All m
 
 ###Chosen Materials:
 The sounds and images used for Who Wants to Be a Millionaire, are not mine nor do I claim any involvement in their creation. The materials are used under Fair Use for academic and educational purpose, and should not be redistributed otherwise without permission from their creators.
+<br>
+
+
+###Improvements 
+Pending improvment: need to build it to be responsive - over all devices.
+
+![image](http://i.imgur.com/rT3E3TM.png)
