@@ -9,13 +9,13 @@ This application is based on 'my own take' of the infamous television show "Who 
 The question bank is organised in an array of "themes". You can have as many "themes" as you like. You select them at the opening page.
 
 My array of questions is organised in the following format
-
-"tech": [
-  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0},
-  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0},
-  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0},
-  ],
-}
+<br>
+"tech": [ <br>
+  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
+  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
+  {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
+  ], <br>
+} <br>
 
 "Answers" is the content for possible answers. "Answers" must have a least 4 multiple choices. 
 "Text" is the prompt for the question. 
