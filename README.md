@@ -6,7 +6,7 @@ This application is based on 'my own take' of the infamous television show "Who 
 <br>
 
 ###Question format
-The question bank is organised in an array of "themes". You can have as many "themes" as you like. You select them at the opening page.
+The question bank is organised in an array of "themes". You can have as many "themes" as you like- currently there is three. The users will select these at the opening page.
 
 My array of questions is organised in the following format
 <br>
@@ -17,9 +17,10 @@ My array of questions is organised in the following format
    ], <br>
 } <br>
 
-"Answers" is the content for possible answers. "Answers" must have a least 4 multiple choices. 
-"Text" is the prompt for the question. 
-"correctAnswer" refers to which answer is the correct one amongst the array. 
+"Answers" is the content for all the possible answers. <br>
+"Answers" must have at least 4 multiple choices. <br>
+"Text" is the prompt for the question. <br>
+"correctAnswer" refers to which answer is the correct one amongst the array. <br>
 
 ####For example: 
 {text: "Where was the first G.A. headquarters and when was it established?", <br>
@@ -28,7 +29,7 @@ correctAnswer: 0}, <br>
 <br>
 
 ###Question bank
-To make question harvesting easier, I had a root directory of 'questions'. All my different themes and their questions are stored in a serperate file questions.js. The program reads the question set from questions.js
+To make question harvesting easier, I had a root directory of 'questions'. All my different themes and their questions are stored in a serperate file 'questions.js'- this allows you to have as many questions and themes as you'd like. 
 <br>
 
 ###Visual of Game 
@@ -43,6 +44,6 @@ The sounds and images used for Who Wants to Be a Millionaire, are not mine nor d
 
 
 ###Improvements 
-Pending improvment: need to build it to be responsive - over all devices.
+Pending improvment: need to make it responsive - over all devices.
 
 ![image](http://i.imgur.com/rT3E3TM.png)
