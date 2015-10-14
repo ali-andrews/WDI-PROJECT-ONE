@@ -4,7 +4,7 @@
 This application is based on 'my own take' of the infamous television show "Who wants to be a Millionaire". <br> Starting with easy multiple-choice questions that gradually get more challenging as the game continues. There will be two users competing to win the grand prize of 'one million dollars'.
 <br>
 
-<https://polar-wave-3586.herokuapp.com/>
+### URL Link <https://polar-wave-3586.herokuapp.com/>
 
 ###Question format
 The question bank is organised in an array of "themes". You can have as many "themes" as you like- currently there is three. The users will select these at the opening page.
