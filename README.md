@@ -2,7 +2,7 @@
 <br>
 
 ###Who Wants To Be A Millionaire 
-This application is based on 'my own take' of the infamous television show "Who wants to be a Millionaire". Starting with easy multiple-choice questions that gradually get more challenging as the game continues. There will be two users competing to win the grand prize of 'one million dollars'.
+This application is based on 'my own take' of the infamous television show "Who wants to be a Millionaire". <br> Starting with easy multiple-choice questions that gradually get more challenging as the game continues. There will be two users competing to win the grand prize of 'one million dollars'.
 <br>
 
 ###Question format
