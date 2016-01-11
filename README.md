@@ -16,7 +16,7 @@ My array of questions is organised in the following format
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
   {text: "questions", answers:["...", "....", "....", "..."], correctAnswer: 0}, <br>
-   ], <br>
+     ], <br>
 } <br>
 
 "Answers" is the content for all the possible answers. <br>
